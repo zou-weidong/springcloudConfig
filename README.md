@@ -1,0 +1,2 @@
+# springcloudConfig
+springcloudConfig server的配置文件
